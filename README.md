@@ -1,6 +1,8 @@
 
 # MaskCOV
-[methodpdf_V5.pdf](https://github.com/XiaohanYu-GU/MaskCOV/files/6543793/methodpdf_V5.pdf)
+![image](https://user-images.githubusercontent.com/9549469/119601776-36f89a80-be2d-11eb-8535-effb67a1f9e3.png)
+![image](https://user-images.githubusercontent.com/9549469/119601877-660f0c00-be2d-11eb-91c9-307b02e448dd.png)
+
 
 ## Basic information
 This work is accepted in Pattern Recognition. 
