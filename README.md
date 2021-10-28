@@ -18,7 +18,7 @@ This work is published in Pattern Recognition. Please cite the following paper s
 }
 
 ## Source Download
-Please find our code in the folder PR_MaskCOV.
+Please find our code in the folder PR_MaskCOV. The ultra-fine-grained image dataset, UFG, used in this paper can be downloaded via "https://github.com/XiaohanYu-GU/Ultra-FGVC".
 
 ### How to use
 install pytorch 1.6.0, python 3.7, cuda 10.1, cudnn7.6.3 and any necessary python package that is required.
