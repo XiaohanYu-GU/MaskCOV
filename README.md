@@ -24,8 +24,10 @@ Please find our code in the folder PR_MaskCOV.
 install pytorch 1.6.0, python 3.7, cuda 10.1, cudnn7.6.3 and any necessary python package that is required.
 
 Use the following order to run the training code in a default setting.
+
 "sh main.sh"
-Or revise the hyper-parameters (batch size, learning rate) in config.py.
+
+Or revise the hyper-parameters (batch size, learning rate) in config.py if needed and then run "sh main.sh".
 
 ### Note
 For Cotton80 subset, the batch size is recommended to be 8. For the remaining subsets, the batch size is recommended to be 16.
